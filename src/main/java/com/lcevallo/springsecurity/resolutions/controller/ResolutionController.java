@@ -9,7 +9,6 @@ import javax.transaction.Transactional;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/resolution")
 public class ResolutionController {
 
     @Autowired
